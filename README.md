@@ -21,7 +21,7 @@ Both should be installed and make sure mongodb is running.
 
 ```shell
 git clone https://github.com/YashRana2103/chat-app.git
-cd chat-app-react-nodejs
+cd chat-app
 ```
 
 Now rename env files from .env.example to .env
