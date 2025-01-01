@@ -63,7 +63,7 @@ cd server
 yarn start
 ```
 
-Done! Now open localhost:3000 in your browser.
+Done! Now open [http://localhost:3000](http://localhost:3000) in your browser.
 
 #### Second Method
 
@@ -80,4 +80,4 @@ after the build is complete run the containers using the following command
 docker compose up
 ```
 
-now open localhost:3000 in your browser.
+now open [localhost:3000](http://localhost:3000) in your browser.
